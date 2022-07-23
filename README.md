@@ -41,6 +41,7 @@ module.exports = {
   <!-- ... -->
 </svg>
 ```
+
 ### Normal
 
 | Class                | Properties               |
@@ -105,6 +106,14 @@ module.exports = {
 | -animation-delay-7000 | animation-delay: -7000ms; |
 | -animation-delay-8000 | animation-delay: -8000ms; |
 | -animation-delay-9000 | animation-delay: -9000ms; |
+
+### Arbitrary values
+
+```html
+<svg class="animate-bounce animation-delay-[10s] w-6 h-6 ...">
+  <!-- ... -->
+</svg>
+```
 
 ## Configuration
 
