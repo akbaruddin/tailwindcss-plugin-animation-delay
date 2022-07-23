@@ -13,6 +13,8 @@
     "tailwindcss",
     "tailwindcss-plugin",
     "tailwindcss-animation-delay",
+    "tailwind-animation-delay",
+    "tailwindcss-plugin-animation-delay",
     "animation-delay",
     "animation",
     "delay"
