@@ -1,0 +1,31 @@
+{
+  "name": "tailwindcss-plugin-animation-delay",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbaruddin/tailwindcss-plugin-animation-delay.git"
+  },
+  "author": "akbaruddin <akbaruddin@live.in>",
+  "license": "MIT",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "tailwindcss-animation-delay",
+    "animation-delay",
+    "animation",
+    "delay"
+  ],
+  "peerDependencies": {
+    "tailwindcss": ">=2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Tailwind CSS plugin, add animation-delay CSS property",
+  "bugs": {
+    "url": "https://github.com/akbaruddin/tailwindcss-plugin-animation-delay/issues"
+  },
+  "homepage": "https://github.com/akbaruddin/tailwindcss-plugin-animation-delay#readme"
+}
